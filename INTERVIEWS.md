@@ -20,6 +20,7 @@ Te invitamos a ser parte de la comunidad ingresando al [Slack de Devz Community]
 ## Recursos En Línea
 
 - [interviewing.io](https://interviewing.io/): Mock interviews (servicio beta, hay tiempo de espera para el registro).
+- [pramp](https://www.pramp.com/) Practice live interviews with peers.
 - [geeksforgeeks.org](https://www.geeksforgeeks.org/): Problemas y soluciones de algoritmos populares en entrevistas.
 - [dailycodingproblem.com](https://www.dailycodingproblem.com/): Mailing list
 - [Cracking the Codign Interview Playlist](https://www.youtube.com/playlist?list=PLOuZYwbmgZWXvkghUyMLdI90IwxbNCiWK): Youtube playlist de videos de la autora del libro CTCI sobre temas populares.
