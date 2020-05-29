@@ -19,7 +19,8 @@ Te invitamos a ser parte de la comunidad ingresando al [Slack de Devz Community]
 
 ## Recursos En Línea
 
-- [interviewing.io](https://interviewing.io/): Mock interviews (servicio beta, hay tiempo de espera para el registro).
+- [interviewing.io](https://interviewing.io/): Mock interviews (100 USD entrevista de CS y 150 USD de diseño de sistemas).
+- [interviewcake.com](https://interviewcake.com): Explicaciones de manera simple y varios ejercios (29 USD en descuento por COVID, precio normal 249 USD).
 - [geeksforgeeks.org](https://www.geeksforgeeks.org/): Problemas y soluciones de algoritmos populares en entrevistas.
 - [dailycodingproblem.com](https://www.dailycodingproblem.com/): Mailing list
 - [Cracking the Codign Interview Playlist](https://www.youtube.com/playlist?list=PLOuZYwbmgZWXvkghUyMLdI90IwxbNCiWK): Youtube playlist de videos de la autora del libro CTCI sobre temas populares.
